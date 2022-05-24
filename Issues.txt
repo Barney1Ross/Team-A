@@ -1,0 +1,2 @@
+1> The css is working for some files and not for others.
+2> Some times the posts/comments are not getting published on the home page and having problems while uploading.
